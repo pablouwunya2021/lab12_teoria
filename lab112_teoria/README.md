@@ -4,6 +4,8 @@
 **Facultad de Ingeniería**  
 **Ingeniería en Ciencia de la Computación y Tecnologías de la Información**
 
+## https://youtu.be/KISC5JWTxs4
+
 ## Descripción
 
 Este laboratorio contiene 4 ejercicios que demuestran el uso de funciones lambda en Python para operaciones con listas, diccionarios y matrices.
